@@ -1,12 +1,13 @@
 # Current features in backlog
-* Website Wireframe
-* Website feature implementaion
-* Application foundation
-* Login implementation
-* User profile and grouping implementation
-* File management and uploading
-* Course creation and management
-* Assignment creation and management
-* Course creation
-* File sharing and handling
+* Website Wireframe (Cade)
+* Website feature implementaion (Cade)
+* Application foundation (Caleb and Alex)
+* Login implementation (Caleb)
+* User profile and grouping implementation (Kyle and Jose)
+* File management and uploading (Jose)
+* Course creation and management (Kyle)
+* Assignment creation and management (Brayden)
+* Course creation (Ethan)
+* File sharing and handling (Ethan and Brayden)
+* Website UX design (Ethan)
 
